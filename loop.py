@@ -61,6 +61,10 @@
 #     print("end of loop")
 
 
-num = [1,2,3,4,5,6,6,7,8,91,23]
-for el in num:
-    print(el)
+# num = [1,2,3,4,5,6,6,7,8,91,23]
+# for el in num:
+#     print(el)
+
+
+ 
+        
